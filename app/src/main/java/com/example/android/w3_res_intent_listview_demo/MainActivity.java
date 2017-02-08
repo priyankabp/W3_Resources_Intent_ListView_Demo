@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                 //view.setBackgroundColor(Color.LTGRAY);
                 Intent intent = new Intent(MainActivity.this, Main2Activity.class);
-                intent.putExtra(Utils.MSG_KEY_INTENT, "Course is "+myItems[i]);
+                intent.putExtra(Utils.MSG_KEY_INTENT, "Color is "+myItems[i]);
                 startActivity(intent);
 
             }
