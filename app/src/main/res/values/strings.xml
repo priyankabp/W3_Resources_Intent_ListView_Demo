@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">W3_Res_Intent_ListView_Demo</string>
+    <string name="app_name">W3_Demo</string>
     <string name="age_caption_ma1">Age</string>
     <string name="btn_caption_ma1">click</string>
     <string name="age_caption_hint_ma1">Enter age</string>
